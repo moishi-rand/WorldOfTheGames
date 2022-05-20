@@ -1,3 +1,4 @@
 requests
 forex-python
 tkinter
+flask
