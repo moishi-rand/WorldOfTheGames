@@ -10,5 +10,5 @@ If he was right with all the numbers the user will win otherwise he will lose
 This game will  ask the user what he thinks is the value of
 the  number from USD to ILS, depending on the user’s difficulty his answer will be correct if the guessed value is between the interval surrounding the correct answer.
 
-# Sevice:
+# Service:
 we used on Flask frameork for deploy the project
