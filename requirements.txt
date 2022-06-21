@@ -2,3 +2,4 @@ requests
 forex-python
 tkinter
 flask
+selenium
