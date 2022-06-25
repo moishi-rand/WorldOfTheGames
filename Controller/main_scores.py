@@ -42,5 +42,8 @@ app = Flask(__name__)
 def welcome():
     return score_server(), 200 # status code
 
-app.run(host='127.0.0.1', debug=True, port=5000)
+def run_score_service():
+    if __name__ == '__main__':
+        app.run(host='127.0.0.1', debug=True, port=5000)
 
+run_score_service()

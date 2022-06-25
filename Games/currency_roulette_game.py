@@ -1,7 +1,7 @@
 import datetime
 import requests
 from forex_python.converter import CurrencyRates
-from utility import validate_input_number
+from Utills.utility import validate_input_number
 
 difficult_level = 0
 # Where USD is the base currency you want to use

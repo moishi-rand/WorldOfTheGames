@@ -1,5 +1,6 @@
 import random
-from utility import validate_input_int_number
+from Utills.utility import validate_input_int_number
+
 
 secret_number = 0
 difficult_level = 0

@@ -1,6 +1,6 @@
 import random
 from tkinter import *
-from utility import validate_input_list_numbers
+from Utills.utility import validate_input_list_numbers
 
 limit_range = 101
 list_numbers = []

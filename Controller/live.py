@@ -1,8 +1,6 @@
-import currency_roulette_game
-import guess_game
-import memory_game
-import score
-from utility import validate_input_int_number
+from Games import memory_game, guess_game, currency_roulette_game
+from Utills import score
+from Utills.utility import validate_input_int_number
 
 #Return welcome str with name of player
 def welcome(name):
